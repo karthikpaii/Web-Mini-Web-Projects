@@ -2,7 +2,7 @@
 
 This repository contains the Source Code of project 'Holy Grail Layout' I completed as part of the Naukri 360 Coding Ninjas Web Development practice questions. It includes HTML and CSS, and the kit was provided by the Coding Ninjas team. We modified it to achieve the design specified by them.
 
-### How TO Submit a Project
+### How To Submit a Project
 
 1. Download the starter kit.  
 2. After downloading, extract the kit (zip File scaffold).  
